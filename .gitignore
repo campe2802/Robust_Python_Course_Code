@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Envs
+.ch2_venv/
+commands.txt
 # Distribution / packaging
 .Python
 .vscode/
